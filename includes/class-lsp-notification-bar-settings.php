@@ -218,7 +218,7 @@ class LSPNotificationBar_Settings {
 		// 			'default'		=> array( 'linux' )
 		// 		)
 		// 	)
-		);
+		// );
 
 		$settings = apply_filters( $this->parent->_token . '_settings_fields', $settings );
 
